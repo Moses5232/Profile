@@ -16,7 +16,7 @@ favorite_number = int(input("Enter your favorite number: "))
 squared = favorite_number ** 2
 print("Your favorite number is:", favorite_number)
 print("Its square is:", squared)
-
+'''
 print("\n" + "=" * 40)
 print("           PERSONAL PROFILE")
 print("=" * 40)
@@ -26,3 +26,4 @@ print(f"Height (meters)    : {height: 2f}")
 print(f"Favorite Number    : {favorite_number}")
 print(f"Age                : {age}")
 print("=" * 40)
+'''
